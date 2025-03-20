@@ -1,7 +1,7 @@
 # Team_MATCOM
 
 !pip install scikit-learn <br>
-!pip install pandas 
-!pip install numpy
-!pip install nltk
-!pip install datasets
+!pip install pandas <br>
+!pip install numpy <br>
+!pip install nltk <br>
+!pip install datasets <br>
